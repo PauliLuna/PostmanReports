@@ -1,5 +1,5 @@
 # Newman Runner
-how to set up GitHub actions to tell your tests to run each time code is updated on your GitHub repo.
+How to set up GitHub actions to tell your tests to run each time code is updated on your GitHub repo.
 
 We'll use GitHub actions to automatically run a Newman command that will execute any tasks in your Postman collection and output those to a report.
 
